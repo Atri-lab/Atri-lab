@@ -1,7 +1,9 @@
 <h1 align="center">👋🏽 Welcome to Atri-Lab!</h1>
 <h3 align="center">Dedicated space to solve problems leveraging software for positive global impact</h3>
 
-<img align = “right” alt = “gif” width = “400” src="https://media.giphy.com/media/V4OJOJx9nKOaI/giphy-downsized.gif">
+<div align="center"> <!-- Add a div to center the image -->
+  <img alt="gif" width="400" src="https://media.giphy.com/media/V4OJOJx9nKOaI/giphy-downsized.gif">
+</div>
 
 <h3 align="left">Atri 101:</h3>
 
