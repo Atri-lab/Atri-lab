@@ -7,7 +7,7 @@
 
 <h3 align="left">Atri 101:</h3>
 
-- 🎓 I am currently a sophomore majoring in Computer Science and Applied Math and Statistics with a minor in Industrial Engineering
+- 🎓 I am currently a sophomore majoring in Computer Science with a minor in Industrial Engineering
 
 - 🤝 Constantly seeking collaborative opportunities to build projects
 
