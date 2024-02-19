@@ -13,7 +13,7 @@
 
 - 📚 List of courses I have taken: Fundamentals of Software Development, Systems Fundamentals I, Data Structures and Algorithms, Programming Abstractions, Probability Theory, Linear Algebra, Finite Mathematics Structure, Differential Equations, Multivariable Calculus, Discrete Mathematics, Survey of Probability and Statistics, Intro to Object Oriented Programming, Logical and Critical Reasoning (II),  Introduction to Western Classical Music, Introduction to American Government, Introduction to Psychology   
 
-- 📫 Feel free to contact me about any assistance I can provide **atri.vyas@stonybrook.edu**
+- 📫 Questions/Collab: **atri.vyas@stonybrook.edu**
 
 - 🎼 Fun fact: **I sometimes compose music for fun**
 
