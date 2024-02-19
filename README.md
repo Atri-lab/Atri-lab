@@ -7,9 +7,9 @@
 
 <h3 align="left">Atri 101:</h3>
 
-- 🎓 I am currently a sophomore double majoring in Computer Science and Applied Math and Statistics with a minor in Industrial Engineering
+- 🎓 Sophomore double majoring in Computer Science and Applied Math and Statistics with a minor in Industrial Engineering
 
-- 🤝 Constantly seeking collaborative opportunities to build projects that creates an impact
+- 🤝 Constantly learning and evolving to build software that in turn creates real impact
 
 - 📚 List of courses I have taken: Fundamentals of Software Development, Systems Fundamentals I, Data Structures and Algorithms, Programming Abstractions, Probability Theory, Linear Algebra, Finite Mathematics Structure, Differential Equations, Multivariable Calculus, Discrete Mathematics, Survey of Probability and Statistics, Intro to Object Oriented Programming, Logical and Critical Reasoning (II),  Introduction to Western Classical Music, Introduction to American Government, Introduction to Psychology   
 
