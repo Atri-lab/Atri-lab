@@ -7,4 +7,4 @@
 **Frameworks and Tools:** React.js, Node, Express, SQL, MongoDB, REST APIs, Docker, Kubernetes  
 
 ## 🌐 Collab
-Feel free to reach out to me if you find anything interesting on my GitHub or would like to discuss some ideas.
+- Feel free to reach out to me if you find anything interesting on my GitHub or would like to discuss some ideas.
