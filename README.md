@@ -1,6 +1,6 @@
 # 👷🏽‍♂️ Atri 101
-Tech visionary who likes to build products utilizing software to make people's lives easier. 
-Currently based in New York, double majoring in Computer Science and Math at Stony Brook University.
+- Tech visionary who likes to build products utilizing software to make people's lives easier. 
+- Currently based in New York, double majoring in Computer Science and Math at Stony Brook University.
 
 ## 🛠 Skills
 **Languages:** Java, Swift, Python, C, PowerShell, JavaScript, TypeScript, XML, HTML/CSS, R, Assembly  
