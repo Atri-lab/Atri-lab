@@ -4,8 +4,12 @@
 
 # 🛠 Skills
 - **Languages:** Java, C, C++, Swift, HTML/CSS, JavaScript, TypeScript, Python, SQL, MongoDB, PostgreSQL
-- **Frameworks and Tools:** React.js, Angular, Spring Boot, Node, Express, Flask 
+- **Frameworks and Tools:** React.js, Angular, Spring Boot, Node, Express, Flask
 - **Tools:** REST APIs, Docker, Kubernetes 
 
 # 🌐 Collab
 Feel free to reach out to me if you find anything interesting on my GitHub or would like to discuss some ideas
+
+# 📬 Stay Updated
+- [Portfolio](https://atri-lab.github.io/atri-portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/atrivyas/)
