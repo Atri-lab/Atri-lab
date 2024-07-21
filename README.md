@@ -10,6 +10,5 @@
 # 🌐 Collab
 Feel free to reach out to me if you find anything interesting on my GitHub or would like to discuss some ideas
 
-# 📬 Stay Updated
-- [Portfolio](https://atri-lab.github.io/atri-portfolio/)
-- [LinkedIn](https://www.linkedin.com/in/atrivyas/)
+# 📡 Links
+[![Portfolio](https://img.icons8.com/ios/24/000000/domain.png)](https://atri-lab.github.io/atri-portfolio/) [![LinkedIn](https://img.icons8.com/ios-filled/24/000000/linkedin.png)](https://www.linkedin.com/in/atrivyas/)
