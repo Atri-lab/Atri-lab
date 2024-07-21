@@ -10,6 +10,6 @@
 # 🌐 Collab
 Feel free to reach out to me if you find anything interesting on my GitHub or would like to discuss some ideas
 
-# 🚀 Explore More
+# 🔗 Follow Along
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=internet-explorer&logoColor=white)](https://atri-lab.github.io/atri-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atrivyas/)
