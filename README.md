@@ -11,5 +11,9 @@
 Feel free to reach out to me if you find anything interesting on my GitHub or would like to discuss some ideas
 
 # 🔗 Follow Along
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=internet-explorer&logoColor=white)](https://atri-lab.github.io/atri-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atrivyas/)
+<a href="https://atri-lab.github.io/atri-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=internet-explorer&logoColor=white" style="zoom: 150%;">
+</a>
+<a href="https://www.linkedin.com/in/atrivyas/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" style="zoom: 150%;">
+</a>
