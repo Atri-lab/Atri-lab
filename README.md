@@ -1,5 +1,4 @@
 # 👷🏽‍♂️ Atri 101
-- Tech visionary who likes to build products utilizing software to make people's lives easier
 - 📍 New York (CS & Math ' 26)
 
 # 🌐 Collab
