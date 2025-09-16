@@ -1,5 +1,6 @@
 # 👷🏽‍♂️ Atri 101
-- 📍 New York (CS & Math ' 26)
+- 📍 New York (CS & Math'25)
+- Interested in AI / Infra / Cloud
 
 # 🌐 Collab
 Feel free to reach out to me if you find anything interesting on my GitHub or would like to discuss some ideas
