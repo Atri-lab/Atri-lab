@@ -1,6 +1,6 @@
 # 👷🏽‍♂️ Atri 101
 - 📍 New York
-- CS + Math (Exp Grad: Dec 2025)
+- CS + Math @ SBU (Exp Grad: Dec 2025)
 - Interested in Infra, Cloud, Backend
 
 # 🌐 Collab
